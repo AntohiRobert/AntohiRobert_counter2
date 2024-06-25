@@ -1,5 +1,5 @@
 {
-    "output": "build/AntohiRobert_counter2",
+    "output": "build/AntohiRobert_counter2.o",
     "command": "g++ -fmodules-ts",
     "dependencies": [
         "AntohiRobert_counter"
